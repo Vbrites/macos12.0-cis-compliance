@@ -1,4 +1,4 @@
-# macOS CIS Compliance CLI Tool
+# MacOS CIS Compliance CLI Tool
 
 This project provides a CLI tool written in **Rust**, designed to configure macOS systems in compliance with the **CIS Apple macOS 12.0 Monterey Benchmark v3.1.0** security guidelines. The goal is to simplify the implementation of hardening policies, ensuring greater system security while maintaining flexibility to meet specific organizational needs.
 
@@ -66,7 +66,7 @@ This project provides a CLI tool written in **Rust**, designed to configure macO
 The project is organized as follows:
 
 ```
-macos-cis-compliance/
+macos12.0-cis-compliance/
 ├── src/               # Source code in Rust
 │   ├── main.rs        # Main script logic
 │   ├── commands.rs    # CIS compliance commands
