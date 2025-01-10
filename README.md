@@ -34,8 +34,8 @@ This project provides a CLI tool written in **Rust**, designed to configure macO
 
 1. **Clone this Repository**:
    ```bash
-   git clone https://github.com/your-username/macos-cis-compliance.git
-   cd macos-cis-compliance
+   git clone https://github.com/Vbrites/macos12.0-cis-compliance.git
+   cd macos12.0-cis-compliance
    ```
 
 2. **Precompiled Binary**:  
@@ -50,7 +50,7 @@ This project provides a CLI tool written in **Rust**, designed to configure macO
    ```
 
 3. **Build from Source** (optional):  
-   If you want to build the binary yourself:
+   If you want to build the binary yourself, from the "macos12.0-cis-compliance" folder, run:
    ```bash
    cargo build --release
    ```
